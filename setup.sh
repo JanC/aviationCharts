@@ -14,6 +14,7 @@ sudo \
         python-imaging \
         perltidy \
         carton \
+        build-essential \
         gdal-bin
 
 carton install
