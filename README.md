@@ -45,6 +45,7 @@ Install various utilities and libraries and create directories using
 The `freshenLocalCharts.sh` downloads all the .zip files containing the charts to the specified folder. 
 
 ```bash
+mkdir /home/testuser/Downloads/aeronav
 ./freshenLocalCharts.sh /home/testuser/Downloads/aeronav
 ```
 
